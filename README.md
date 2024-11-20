@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PakaVishwaTeja
-- 👀 I’m interested in Graphics
-- 🌱 I’m currently learning ... React😋
+- 👀 I’m interested in Graphics, web development , ML/AI
+- 🌱 I’m currently learning ... opengl😋
 - 📫 mail me at  : vishwatejapaka@gmail.com
 
 <!---
